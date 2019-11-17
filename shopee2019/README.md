@@ -1,5 +1,7 @@
 # Shopee - I'm the Best Coder! Challenge 2019
 
+## Overview
+
 The competition comprises of two rounds, each lasts for around 1h30min. Although I didn't win anything, I learnt a lot from this experience. The notebooks here are my attempt after the competition i.e. when I have unlimited time to think and write the code.
 
 The task details are reproduced as below. All data sets and task materials are properties of Shopee Singapore.
