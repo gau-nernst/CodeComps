@@ -1,5 +1,5 @@
-# DataScience
- Data Science projects and competitions done by me
+# Coding Competitions
+ Projects and competitions done by me
 
 # View the Notebooks
 
