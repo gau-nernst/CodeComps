@@ -1,6 +1,12 @@
 # Coding Competitions
  Projects and competitions done by me
 
+List of competitions:
+- Shopee I'm the Best Coder! Challenge 2019 ([go](/tree/master/shopee2019))
+- UBS Quant Hackathon 2019 ([go](/tree/master/UBShackathon2019))
+- Google Hash Code 2020 ([go](/tree/master/hashcode2020))
+- IBM Quantum Challenge 2020 ([go](/tree/master/IBMquantumchallenge2020))
+
 # View the Notebooks
 
 __Option 1__: View directly on Github
