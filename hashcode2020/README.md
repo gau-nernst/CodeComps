@@ -7,13 +7,13 @@ My team, LdR, ranked 2723rd place in the Online Qualification round. Problem sta
 
 File structure
 
-File name|Description
----------|-------|---------------
-b_read_on.txt|Datasets
-b_read_on_output.txt|Results (Output) of my code
-b_read_on_output2.txt|Results (Output) of my code for the script 2
-b_read_on_extended_output.txt|Results of my code, after the competition (Extended round)
-script2.py|Python script version 2
+|File name|Description|
+|---------|-------|
+|b_read_on.txt|Datasets|
+|b_read_on_output.txt|Results (Output) of my code|
+|b_read_on_output2.txt|Results (Output) of my code for the script 2|
+|b_read_on_extended_output.txt|Results of my code, after the competition (Extended round)|
+|script2.py|Python script version 2|
 
 My code has extended use of List comprehension to speed up the runtime. I came up with a ranking criteria to choose which library will be chosen next for registration. After a library is registered, I removed the duplicated books in all other libraries.
 
