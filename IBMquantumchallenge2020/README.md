@@ -16,3 +16,13 @@ Pictures below are my attempts at decomposing a quantum circuits into U3 and CNO
 ![diagonal](ibm1.png)
 ![quantumcircuit](ibm2.png)
 ![achievement](ibm3.png)
+
+# Some Quantum Computing notes from this experience
+
+Sources:
+- Qiskit Textbook: https://qiskit.org/textbook/
+- Microsoft Quantum Documentation - Concepts: https://docs.microsoft.com/en-us/quantum/concepts/
+
+Due to GitHub Markdown being unable to render Math equations (LaTeX), I will attach a pdf file instead.
+
+Download [here](IBM_Quantum_Challenge_notes.pdf)
